@@ -1,0 +1,17 @@
+<%-- 
+    Document   : hoa
+    Created on : 9/03/2019, 11:50:38 PM
+    Author     : SPARTAN PC
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>beinvenido un dia mas</title>
+    </head>
+    <body>
+        <h1>es una prueba de lo que un estudiante con sueño y con 3 de sus 5 sentidos activados jeje esto no e sun meme ayuda :c</h1>
+    </body>
+</html>
